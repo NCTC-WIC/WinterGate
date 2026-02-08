@@ -6,7 +6,7 @@
 
 ### **1. WHO WE ARE**
 
-**WinterGate Intelligence Collective (WIC)** is the operational arm of the No Trac3 Counter Threat Coalition. We are a **collective intelligence and coordination network** specializing in digital threat mitigation, behavioral threat analysis, and protective operations.
+**WinterGate Intelligence Collective (WIC)** is the operational arm of the NoTrac3 Counter Threat Coalition. We are a **collective intelligence and coordination network** specializing in digital threat mitigation, behavioral threat analysis, and protective operations.
 
 **Our Motto:** *We Observe. We Infiltrate. We Expose. We Protect.*  
 **Our Promise:** *We are always watching, even when you least expect us.*
