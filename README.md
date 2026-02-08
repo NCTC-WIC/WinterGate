@@ -17,7 +17,7 @@
 
 To **identify, analyze, and dismantle coordinated threat networks** that target vulnerable individuals and communities—with specialized focus on:
 - **Toxic ecosystems/entities** (grooming, coercion, psychological warfare, etc)
-- **Cyber-enabled harassment & stalking rings**
+- **Cyber-enabled harassment & stalking rings, etc**
 - **Digital exploitation networks** (financial, emotional, identity-based, etc)
 - **Platform-manipulation groups** that weaponize community features, etc
 
