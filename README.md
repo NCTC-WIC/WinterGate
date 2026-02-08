@@ -16,10 +16,10 @@
 ### **2. PRIMARY MISSION**
 
 To **identify, analyze, and dismantle coordinated threat networks** that target vulnerable individuals and communities—with specialized focus on:
-- **Toxic "com clan" ecosystems** (grooming, coercion, psychological warfare)
+- **Toxic ecosystems/entities** (grooming, coercion, psychological warfare, etc)
 - **Cyber-enabled harassment & stalking rings**
-- **Digital exploitation networks** (financial, emotional, identity-based)
-- **Platform-manipulation groups** that weaponize community features
+- **Digital exploitation networks** (financial, emotional, identity-based, etc)
+- **Platform-manipulation groups** that weaponize community features, etc
 
 ---
 
